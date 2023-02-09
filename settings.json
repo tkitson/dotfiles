@@ -80,4 +80,13 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "editor.inlineSuggest.enabled": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.inheritEnv": false,
+    "github.copilot.enable": {
+      "*": true,
+      "yaml": false,
+      "plaintext": false,
+      "markdown": false
+    },
 }
